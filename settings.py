@@ -16,4 +16,4 @@ class Settings:
         self.bulles_allowed= 3
         
         # Ship settings
-        self.ship_speed = 3.5
+        self.ship_speed = 1.5
